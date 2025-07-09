@@ -1,16 +1,15 @@
 [![MasterHead](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)]
 <h1 align="center">Hi 👋, I'm Smriti Sinha</h1>
-<hp align="center">I am currently pursuing a Bachelor's degree in Computer Engineering, with strong focus on developing my skills as fullstack developer. I am continually expanding my knowledge to build dynamic and efficient web applications. My academic journey has equipped me with a solid foundation in programming, and I am committed to further honing my expertise in full stack development.</p>
+<hp align="center">I have recently completed my Bachelor's degree in Computer Engineering, with strong focus on developing my skills as fullstack developer. I am continually expanding my knowledge to build dynamic and efficient web applications. My academic journey has equipped me with a solid foundation in programming, and I am committed to further honing my expertise in full stack development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasmriti&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasmriti" /> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript, Nodejs and React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **smiriti.sinha28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/smriti_sinha28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smriti_sinha28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smriti sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smriti sinha" height="30" width="40" /></a>
 </p>
 
