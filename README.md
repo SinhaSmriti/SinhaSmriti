@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasmriti&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasmriti" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently improving my skills on **React**
 
 - 📫 How to reach me **smiriti.sinha28@gmail.com**
 
